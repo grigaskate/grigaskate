@@ -1,7 +1,7 @@
 ### Hi there, I'm Kate Grigas
 
 <div>
-<img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47c4acuxev75wmoptcfsk7cfu9qjygm2xkdghjxv2e&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="working" width="350px" align="right">
+<!-- <img src="https://media0.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47c4acuxev75wmoptcfsk7cfu9qjygm2xkdghjxv2e&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="working" width="350px" align="right"> -->
 
 I’m a Frontend developer. Welcome to my Github profile!
 
